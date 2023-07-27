@@ -1,0 +1,1 @@
+print("Davai syka")
